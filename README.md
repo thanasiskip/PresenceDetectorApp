@@ -11,6 +11,7 @@ A sophisticated mobile application developed as part of a University Thesis, des
 
 ### User Interface Showcase
 ![UI Showcase](Media/ui_showcase.gif)
+
 *Figure 1: Mobile user interface interaction and active presence status dashboard.*
 
 > 💡 **Note** To comply with GitHub's storage constraints and keep the repository lightweight, this profile contains only the core application logic, custom C# scripts, and configuration matrices. Asset binaries and large external dependencies have been omitted.
